@@ -1,0 +1,55 @@
+{
+    "name": "Результаты команды технической поддержки 2024",
+    "short_name": "Результаты 2024",
+    "description": "Годовой отчет команды технической поддержки за 2024 год",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#3b82f6",
+    "theme_color": "#3b82f6",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "ru",
+    "categories": ["business", "productivity"],
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot-wide.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "screenshot-narrow.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Ключевые метрики",
+            "short_name": "Метрики",
+            "description": "Просмотр основных показателей",
+            "url": "/#main-content",
+            "icons": [
+                {
+                    "src": "icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ]
+} 
